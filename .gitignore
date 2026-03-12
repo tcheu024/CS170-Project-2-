@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Editor folders
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Ignore the dataset files by default (change if you want them tracked)
+CS170_*DataSet*.txt
