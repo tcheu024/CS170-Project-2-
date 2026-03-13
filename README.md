@@ -3,14 +3,17 @@
 Repository created on 2026-03-11.
 
 Contents
+
 - `CS170_Large_DataSet__49.txt` — large dataset (ignored by default)
 - `CS170_Small_DataSet__94.txt` — small dataset (ignored by default)
 
 Notes
+
 - I added a `.gitignore` that excludes dataset files by pattern. If you want the datasets tracked in git, remove those lines from `.gitignore`.
 - Update the `LICENSE` file to include your name if desired.
 
 Next steps
+
 1. (Optional) Create a remote repo on GitHub.
 2. Add the remote and push:
 
